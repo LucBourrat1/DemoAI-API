@@ -1,5 +1,5 @@
 # DemoAI-API
-A simple web API hosted on an EC2 instance on amazon AWS, which hosts several basic AI application for computer vision.
+A simple web API hosted on an EC2 instance on amazon AWS, which hosts several basic AI applications of computer vision.
 
 The link to the API is the following: http://54.89.115.131:8000
 
